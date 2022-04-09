@@ -1,0 +1,11 @@
+specials_id,canteen_id,food_id,date,type
+1,1,2,2019-6-28,new
+2,1,5,2019-6-28,special
+3,1,12,2019-6-29,special
+4,1,6,2019-6-29,new
+5,1,8,2019-6-29,new
+6,1,11,2019-6-30,new
+7,1,15,2019-6-30,special
+8,1,17,2019-7-01,special
+9,1,19,2019-7-02,special
+9,1,19,2019-7-02,special
